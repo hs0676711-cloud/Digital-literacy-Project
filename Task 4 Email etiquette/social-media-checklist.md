@@ -1,0 +1,7 @@
+| **Do’s**                                                                                          | **Don’ts**                                                                                                    |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Think before posting** – Make sure your content is respectful and appropriate.                  | **Don’t share personal or sensitive information** such as phone numbers, address, passwords, or bank details. |
+| **Use strong passwords and enable two-factor authentication** for your accounts.                  | **Don’t spread misinformation or fake news** without verifying the source.                                    |
+| **Maintain a professional online presence** since employers may check your social media profiles. | **Don’t post offensive, abusive, or hateful comments** about others.                                          |
+| **Respect others’ privacy** by asking permission before posting their photos or videos.           | **Don’t engage in cyberbullying or online harassment.**                                                       |
+| **Review privacy settings regularly** to control who can see your posts and personal details.     | **Don’t click suspicious links or messages** that may lead to scams or phishing attacks.                      |
